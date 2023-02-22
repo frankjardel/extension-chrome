@@ -1,0 +1,9 @@
+{
+    "name": "Uppercase",
+    "version": "1.0",
+    "description": "Transform a text to Uppercase",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+}
